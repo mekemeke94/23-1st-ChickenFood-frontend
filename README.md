@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=mMQE_7ZBouc
 - Local Storage에서의 토큰의 여부를 통해 로그인 여부 확인
 - Local Storage에서 토큰을 삭제로 로그아웃 기능
 
-#### 메인페이지(박태환)
+####<span style='color:red'>메인페이지(박태환)</span>
 - react-router를 사용한 동적 라우팅
 - 클릭 이벤트 발생 시 각 버튼에 해당하는 필터된 데이터의 API 주소를 변경해 리랜더링해주는 필터 구현
 - fecth를 이용해 백엔드와 통신하여 메인 페이지 데이터 렌더링
@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=mMQE_7ZBouc
 - 불러오기, 지우기, 장바구니로 보내기
 - 위시리스트의 개수에 따라 UI 구현
 
-#### 장바구니 (박태환)
+#### <span style='color:red'>장바구니 (박태환)</span>
 - 장바구니 페이지 UI 구현
 - 제품별 삭제 기능 구현
 - 개별 상품 수량 증감 버튼 기능 구현
