@@ -14,7 +14,7 @@
 ## 페이지별 기능 DEMO
 ---
 ### [메인 배너 슬라이드]
-![](https://i.ibb.co/Sm88JVY/2.gif)
+![](https://i.ibb.co/VYVVd6N/banner.gif)
 ### [메인 상품 필터]
 ![](https://i.ibb.co/zxs3VJy/image.gif)
 ### [장바구니 기능 구현]
